@@ -1,0 +1,14 @@
+# Exercise number 5
+#
+# Make the now over used map generator a functional package importable by
+# this next exercise. Using this import attempt the following:
+# 
+# Expand the package to include the elements: "|" : wall, "_": soil
+# make an algorithm that generates a navigable maze with the following 
+# rules: Generates a 4x4 centre. Paths with a prize entity : "[]"
+# if the player (randomly assigned to some place) navigate the maze and
+# gets the prize, triggers win conditions
+# Stablish a timer updated at every second, if time goes up, game over.
+# 
+# Challenge 1: Make the maze bigger by composing it of four separate
+# together with the gate entity "[" in one wall

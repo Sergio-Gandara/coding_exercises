@@ -1,0 +1,11 @@
+#Exercise 1 of the programming roadmap
+# Make a Hello world program but make it able to recognise also the user 
+# name after asking for it
+# LANGUAGES:
+# 1- Python (not required rn)
+# 2- Java (required)
+# 3- C# (required)
+# 4- Lua (required)
+#
+# TASKS:
+# How does C# work?

@@ -1,0 +1,15 @@
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ex1.csproj.AssemblyReference.cache
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ex1.AssemblyInfoInputs.cache
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ex1.AssemblyInfo.cs
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ex1.csproj.CoreCompileInputs.cache
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/bin/Debug/net6.0/ex1
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/bin/Debug/net6.0/ex1.deps.json
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/bin/Debug/net6.0/ex1.runtimeconfig.json
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/bin/Debug/net6.0/ex1.dll
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/bin/Debug/net6.0/ex1.pdb
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ex1.dll
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/refint/ex1.dll
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ex1.pdb
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ex1.genruntimeconfig.cache
+/home/sergio/Desktop/learning/gen_purp/roadmap/first_wave/cs/ex1/obj/Debug/net6.0/ref/ex1.dll

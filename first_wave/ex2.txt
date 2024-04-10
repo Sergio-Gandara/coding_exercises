@@ -1,0 +1,18 @@
+# Exercise 2:
+# Print a box resembling the following:
+#
+# __________________________________
+# |                                 |
+# |                                 |
+# |                                 |
+# |                                 |
+# |                                 |
+# |                                 |
+# |                                 |
+# |                                 |
+# |                                 |
+# |_________________________________|
+#
+# If the box is a matrix, make all a{i, j} | i+j = even to print out a '*'
+# Obviously except the borders.
+# CHALLENGE: Make matrix dimensions adjustable

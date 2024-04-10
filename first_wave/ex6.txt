@@ -1,0 +1,10 @@
+# Exercise 6
+#
+# In this exercise you will have to export again this module
+# and create another type of map inheritting the previous.
+# This type of map will not have lateral or upper walling. You may
+# need to restructure previous code
+# CHALLENGE 1: Make a player character and do it jump 2 spaces when 'W'
+# is pressed, update player input option at every half second
+# automatically. Make the FPS the same rate.
+# Implement a gravity system with g=-1 vertical space/second²

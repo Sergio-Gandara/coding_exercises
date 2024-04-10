@@ -1,0 +1,16 @@
+# Exercise number 4
+#
+# Using the map generator from the prior exercise generate a player entity
+# as '*' and a foe entity as 'uwu' with the center letter being position
+# 
+# You are going to program a game which implicates the player only beign 
+# able to move from right to left and so on. There will be another button to
+# shoot a projectile entity '|', projectiles disappear when they hit
+# the up side.
+# Both the projectile and the foes move at rate 1, but projectiles move 
+# upwards and foes appear in the left and move right.
+# CHALLENGE 1: Make it so that foes move 1 space downwards as they reach
+# the right Wall. If foes reach soil, player loses.
+#
+# CHALLENGE 2: Capture ESC key to trigger a pause menu, during pause the
+# game stops

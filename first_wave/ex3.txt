@@ -1,0 +1,15 @@
+# Exercise number 3
+# 
+# In this exercise you have to make the same as in the previous exercise
+# But eliminate the special disctinction in indexes of matrixes and just
+# print in all spaces a ' ' character.
+# You will have to make a '*' character at 1, 1.
+# Screen must flush and take input from A-S-W-D keys to indicate direction.
+# The asterisk must move accordingly to this input one space at a time, one # per associated input.
+# CHALLENGE ONE: Make a random generation of '#' characters, if the asterisk# touches a hash character, it 
+# will trigger a fully fledged Rock, Paper, 
+# Scissors against a random-biased opponent. At the best of three, if the 
+# player loses, the game exits. The player wins if three RSP battles are won
+#
+# CHALLENGE TWO: Make all the prior using functions and classes
+# The asterisk may be a 'player' entity, whereas '#' may be a foe.
